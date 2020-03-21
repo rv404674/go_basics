@@ -1,0 +1,6 @@
+GARBAGE COLLECTIONS
+
+1. JVM/PYTHON interpreter , keeps track of references/ptrs to a variable, when there are no more 
+references to the variable then the GC deallocates it.
+
+2. In go, GC is done in the background.
